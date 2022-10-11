@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gopher dancing](./dancing-gopher.gif)
+
 <!--
 **richieyi/richieyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
